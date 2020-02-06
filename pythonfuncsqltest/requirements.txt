@@ -1,0 +1,10 @@
+bs4
+pandas
+pysftp
+azure-functions
+urllib3
+requests
+sqlalchemy
+pyodbc
+numpy
+datetime
